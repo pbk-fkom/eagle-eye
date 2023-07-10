@@ -18,7 +18,7 @@ Hitam     #000000
 ```
 Icon
 
-Logo    ![alt text](https://raw.githubusercontent.com/pbk-fkom/eagle-eye/main/Logo.png)
-Home    ![alt text](https://raw.githubusercontent.com/pbk-fkom/eagle-eye/main/Home.png)
-Menu    ![alt text](https://raw.githubusercontent.com/pbk-fkom/eagle-eye/main/icon_menu.png)
+![alt text](https://raw.githubusercontent.com/pbk-fkom/eagle-eye/main/Logo.png)
+![alt text](https://raw.githubusercontent.com/pbk-fkom/eagle-eye/main/Home.png)
+![alt text](https://raw.githubusercontent.com/pbk-fkom/eagle-eye/main/icon_menu.png)
 
