@@ -10,3 +10,9 @@ No Data Is Safe
 
 
 ## Asset
+Warna
+```
+Hijau     #56C13C
+Hijau Tua #2F7923
+Hitam     #000000
+```
