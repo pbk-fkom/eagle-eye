@@ -1,6 +1,8 @@
 ## Eagle Eye
 Project Eagle Eye - No Data Is Safe 
 PBK Expo 2023
+
+Eagle Eye adalah sebuah aplikai berbasis website yang bisa melakukan tracking data mahasiswa universitas kuningan dengan sebuah NIM (Nomor Induk Mahasiswa)
 ## Tampilan 
 
 ![alt text](https://raw.githubusercontent.com/pbk-fkom/eagle-eye/main/Menu.png)
